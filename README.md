@@ -38,4 +38,4 @@
 * What is the limit of Opacity?
 * What does A represent in RGBA?
 * WHat is the difference between background and background-color?
-* 
+* Explain Hex?
