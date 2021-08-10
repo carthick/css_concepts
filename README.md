@@ -39,3 +39,8 @@
 * What does A represent in RGBA?
 * WHat is the difference between background and background-color?
 * Explain Hex?
+* Explain Pixels?
+* Are Pixels abolute or relative?
+* What is Font-size?
+* Example width and Height using pixels?
+* 
