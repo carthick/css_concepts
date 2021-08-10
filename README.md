@@ -39,8 +39,10 @@
 * What does A represent in RGBA?
 * WHat is the difference between background and background-color?
 * Explain Hex?
+### Units ###
 * Explain Pixels?
 * Are Pixels abolute or relative?
 * What is Font-size?
 * Example width and Height using pixels?
-* 
+* Are percent units relative or absolute?
+* Do Percent units dependent on Parent Element?
