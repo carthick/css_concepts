@@ -32,3 +32,10 @@
     * Last Rule - If you have two elements with same property and value then the syle with the last declared selector will be taking effect as style
     * Specificity - 
     * Universal Selector - 
+* What is RGB?
+* What is the Limit of R, G , B in RGB ?
+* What is difference between RGB and RGBA?
+* What is the limit of Opacity?
+* What does A represent in RGBA?
+* WHat is the difference between background and background-color?
+* 
