@@ -46,3 +46,6 @@
 * Example width and Height using pixels?
 * Are percent units relative or absolute?
 * Do Percent units dependent on Parent Element?
+* Do Em's depend on parent element?
+* Are Em's relative?
+* 
