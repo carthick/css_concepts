@@ -48,4 +48,75 @@
 * Do Percent units dependent on Parent Element?
 * Do Em's depend on parent element?
 * Are Em's relative?
-* 
+* Em's base value?
+* Explain Em's?
+* Explain REM's?
+* What are view port units for Height and width?
+* Are Viewport relative on screen or parent element?
+* What is Calc function?
+* Is height by default auto or not?
+* If you are controlling the width then are you controlling height?
+* What is overflow hidden used for?
+* What is oveflow scroll set for?
+* difference between Height Min-height, max-height
+### Typography ###
+* font-size
+* font-family
+* font-weight
+* font-size
+* text-align
+* text-indent
+* line-height
+* letter-spacing
+* word-spacing
+* text-transform
+* text-decoration
+### Css Box Model ###
+* Margin
+* Border
+* Padding
+* Content
+* border-color
+* border-style
+* border-width
+* border
+* border-bottom
+* border-radius
+* negative-margin
+* outline
+* offset
+* outline-offset
+### Display Property ###
+* Display Block
+* Display inline
+* How do you center an element?
+* IS that text align center or left and right margin to center the text
+* Does the span respects or applies  width, height, margin etc?
+* Display inline-block
+* When do you use display inline-block
+*  difference between display none, opacity, visiblity hidden
+### Background ###
+* Background repeat
+* Background size- Cover, contain
+* Background position - Center
+* Background Attachment - Fixed
+### Linear Gradients ###
+* colorzilla generate linear gradient
+* Float
+* clear - both, right
+* Column layout 
+* Position static , relative , absolute, fixed and sticky
+* text decoration
+* text transform
+* z index
+* ::Before
+* ::After
+### ### 
+* Pseudo class Selectors
+* Descendent and Child selectors
+* first line and first letter
+* ::hover pseudo class selector
+* ::LINK , ::VISITED, ::active 
+* ::root , 
+### Transform, transition and animation
+* translate(), scale(), rotate(), skew()
