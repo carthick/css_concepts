@@ -120,3 +120,24 @@
 * ::root , 
 ### Transform, transition and animation
 * translate(), scale(), rotate(), skew()
+* How transition works?
+* transition timing function
+* ease- fast, slow start, slow end
+* linear - same speed start to end
+* ease in - slow start
+* ease out - slow end 
+* ease-in -out - slow start, fast, slow end
+* animation
+* difference between animation and transition
+* animation fill mode
+* What values are applied by the  animation outside the time it is executed  
+### CSS Variable ###
+* Css Variables
+* Global Variables
+* Local Variables
+* Font awesome
+* Text Shadow and Box Shadow
+* How do you find if a css supported by a particular browser(caniuse.com,shouldiprefix.com)
+* Semantic tags: 
+* object fit
+* 
